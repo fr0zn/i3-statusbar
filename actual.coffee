@@ -11,6 +11,7 @@ render: (output) ->
         <li id="d3">3</li>
         <li id="d4">4</li>
         <li id="d5">5</li>
+        <li id="d6">6</li>
       <ul>
     </div>
   """
