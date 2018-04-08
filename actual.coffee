@@ -34,8 +34,8 @@ style: """
     padding-right: 5px
   li.active
     color: white
-    background: #2a5676
-    border: #45708f
+    background: #710399
+    border: #cb3dff
 """
 
 update: (output, domEl) ->
